@@ -16,5 +16,6 @@ Skeleton repo – will be filled from github.dev editor.
          css/main.css: {}
      js:
        js/app.js: {}
-5.Ενεργοποιώ το theme, τρέχω npm run build (Sass → CSS)
+
+5. **Ενεργοποιώ** το theme, τρέχω `npm run build` (Sass → CSS)
 και καθαρίζω cache (drush cr). Το demo εμφανίζεται μέσα στο Drupal.
